@@ -1,0 +1,7 @@
+## Swiftly
+
+swiftly
+
+#### License
+
+MIT
