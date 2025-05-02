@@ -53,10 +53,9 @@ doctype_list_js = {"Serial No" : "public/js/serial_no_list.js"}
 # ----------
 
 # add methods and filters to jinja environment
-# jinja = {
-# 	"methods": "swiftly.utils.jinja_methods",
-# 	"filters": "swiftly.utils.jinja_filters"
-# }
+jinja = {
+	"methods": "swiftly.utils.get_qr_code",
+}
 
 # Installation
 # ------------
